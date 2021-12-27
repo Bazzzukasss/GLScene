@@ -1,0 +1,6 @@
+[submodule "gl_scene"]
+	path = gl_scene
+	url = ../gl_scene.git
+[submodule "test_gl_scene"]
+	path = test_gl_scene
+	url = ../test_gl_scene.git
